@@ -13,8 +13,9 @@
 - [这是？](#这是)
 - [为何要用到它？](#为何要用到它)
 - [如何使用它](#如何使用它)
+- [跟着我](#跟着我)
 - [拥有一名 Googler 的心态](#拥有一名-googler-的心态)
-- [我得到了工作吗？](#我得到了工作吗)
+- [觉的自己不够聪明？](#觉的自己不够聪明？)
 - [跟着我的脚步](#跟着我的脚步)
 - [不要妄自菲薄](#不要妄自菲薄)
 - [关于 Google](#关于-google)
@@ -106,11 +107,24 @@
 
 ## 为何要用到它？
 
-我一直都是遵循该计划去准备 Google 的面试。自 1997 年以来，我一直从事于 web 程序的构建、服务器的构建及创业型公司的创办。对于只有着一个经济学学位，而不是计算机科学学位（CS degree）的我来说，在职业生涯中所取得的都非常成功。然而，我想在 Google 工作，并进入大型系统中，真正地去理解计算机系统、算法效率、数据结构性能、低级别编程语言及其工作原理。可一项都不了解的我，怎么会被 Google 所应聘呢？
+Java:
+
+我一直都是遵循该计划去准备 Alibaba 的面试。自 2017 年以来，我一直从事于 web 程序的构建、服务器的构建及创业型公司的创办。我想在 Alibaba 工作，并进入大型系统中，真正地去理解计算机系统、算法效率、数据结构性能、低级别编程语言及其工作原理。可一项都不了解的我，怎么会被 Google 所应聘呢？
 
 当我创建该项目时，我从一个堆栈到一个堆都不了解。那时的我，完全不了解 Big-O 、树，或如何去遍历一个图。如果非要我去编写一个排序算法的话，我只能说我所写的肯定是很糟糕。一直以来，我所用的任何数据结构都是内建于编程语言当中。至于它们在背后是如何运作，对此我一概不清楚。此外，以前的我并不需要对内存进行管理，最多就只是在一个正在执行的进程抛出了“内存不足”的错误后，采取一些权变措施。而在我的编程生活中，也甚少使用到多维数组，可关联数组却成千上万。而且，从一开始到现在，我都还未曾自己实现过数据结构。
 
-就是这样的我，在经过该学习计划后，已然对被 Google 所雇佣充满信心。这是一个漫长的计划，以至于花费了我数月的时间。若您早已熟悉大部分的知识，那么也许能节省大量的时间。
+就是这样的我，在经过该学习计划后，已然对被 Alibaba 所雇佣充满信心。这是一个漫长的计划，以至于花费了我数月的时间。若您早已熟悉大部分的知识，那么也许能节省大量的时间。
+
+Python：
+2020我近期工作的准备:机器学习工程师. 在2017年以来，我一直在从事软件工程WEB/BIGDATA的相关开发工作。我对大学的微积分，微积分，线性代数，离散数学，概率论和统计知识有一点点了解。考虑一下我对机器学习的兴趣：
+机器学习有[两个方面](https://blog.csdn.net/m0_37337849/article/details/104006717)：
+
+实用机器学习：这涉及查询数据库，清理数据，编写脚本以转换数据以及将算法和库粘合在一起，以及编写自定义代码以从数据中获取可靠的答案，以满足棘手且定义不明确的问题。这是现实的混乱。
+理论机器学习：这是关于数学和抽象以及理想化的场景，限制和美丽，并告知可能的内容。它整洁，干净，摆脱了现实的混乱。
+我认为以实践为中心的方法的最佳方法是[实践-学习-实践](https://blog.csdn.net/m0_37337849/article/details/104006551)，这意味着学生首先要进行一些现有的项目，这些项目带有问题和解决方案（实践），以熟悉该领域的传统方法，也许用他们的方法。在具有一些基本的经验练习之后，他们可以进入书本并研究其基础理论，这将指导他们未来的高级实践，并将增强他们解决实际问题的工具箱。学习理论还可以进一步提高他们对基本经验的理解，并帮助他们更快地获得高级经验。
+
+这是一个很长的计划。这将花费我数年。如果您已经熟悉了很多内容，那么将减少您的时间。
+
 
 ## 如何使用它
 
@@ -122,54 +136,32 @@
 
 [更多关于 Github-flavored markdown 的详情](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-## 我得到了工作吗？
+## 跟着我
+我是一位中国软件工程师，他非常热情并且希望在中国工作。
+| ![Nam Vu - Top-down learning path: machine learning for software engineers](http://github.com/Wuwenxu/code-camp/png/wuwenxu.jpg)|
+|:---:|
+| 我在旅途中。 | 
 
-我还没去应聘。
 
-因为我离完成学习（完成该疯狂的计划列表）还需要数天的时间，并打算在下周开始用一整天的时间，以编程的方式去解决问题。当然，这将会持续数周的时间。然后，我才通过使用在二月份所得到的一个介绍资格，去正式应聘 Google（没错，是二月份时就得到的）。
+## 觉的自己不够聪明？
+我不愿告诉书本和课程，因为我会尽快告诉我多元演算，推理统计和线性代数是先决条件。我仍然不知道如何开始……
 
-    感谢 JP 的这次介绍。
+- [如果我数学不好怎么办](https://blog.csdn.net/m0_37337849/article/details/104007541)
+- [5种无数学背景的理解机器学习算法的技术](https://blog.csdn.net/m0_37337849/article/details/104007666)
+- [如何学习机器学习？](https://blog.csdn.net/m0_37337849/article/details/104007872)
+
 
 ## 跟着我的脚步
 
-目前我仍在该计划的执行过程中，如果你想跟随我脚步去学习的话，可以登进我在 [GoogleyAsHeck.com](https://googleyasheck.com/) 上所写的博客。
+目前我仍在该计划的执行过程中，如果你想跟随我脚步去学习的话，可以登进我在 [CSDN](https://wuwenxu.blog.csdn.net) 上所写的博客。
 
 下面是我的联系方式：
 
-- Twitter: [@googleyasheck](https://twitter.com/googleyasheck)
-- Twitter: [@StartupNextDoor](https://twitter.com/StartupNextDoor)
-- Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)
-- LinkedIn: [johnawasham](https://www.linkedin.com/in/johnawasham)
+- 微博: [@weibo](https://weibo.com/5545848359/)
+- 今日头条: [@toutiao](https://www.toutiao.com/c/user/4498838624927884/#mid=1649014028615694)
+- 百家号+: [@baidu](https://baijiahao.baidu.com/u?app_id=1651267303074984)
+- 微信公众号: 程序员架构师13
 
-![John Washam - Coding Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
-
-## 不要妄自菲薄
-
-- Google 的工程师都是才智过人的。但是，就算是工作在 Google 的他们，仍然会因为觉得自己不够聪明而感到一种不安。
-- [天才程序员的神话](https://www.youtube.com/watch?v=0SARbwvhupQ)
-
-## 关于 Google
-
-- [ ] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-- [ ] Google 检索的原理：
-    - [ ] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
-    - [ ] [Google 检索的原理 —— 故事篇](https://www.google.com/insidesearch/howsearchworks/thestory/)
-    - [ ] [Google 检索的原理](https://www.google.com/insidesearch/howsearchworks/)
-    - [ ] [Google 检索的原理 —— Matt Cutts（视频）](https://www.youtube.com/watch?v=BNHR6IQJGZs)
-    - [ ] [Google 是如何改善其检索算法（视频）](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
-- [ ] 系列文章：
-    - [ ] [Google 检索是如何处理移动设备](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
-    - [ ] [Google 为了寻找大众需求的秘密研究](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
-    - [ ] [Google 检索将成为你的下一个大脑](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
-    - [ ] [Demis Hassabis 的心灵直白](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
-- [ ] [书籍：Google 公司是如何运作的](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
-- [ ] [由 Google 通告所制作 —— 2016年10月（视频）](https://www.youtube.com/watch?v=q4y0KOeXViI)
-
-## 相关视频资源
-
-部分视频只能通过在 Coursera、Edx 或 Lynda.com class 上注册登录才能观看。这些视频被称为网络公开课程（MOOC）。即便是免费观看，部分课程可能会由于不在时间段内而无法获取。因此，你需要多等待几个月。
-
-    很感谢您能帮我把网络公开课程的视频链接转换成公开的视频源，以代替那些在线课程的视频。此外，一些大学的讲座视频也是我所青睐的。
 
 ## 面试过程 & 通用的面试准备
 
@@ -185,7 +177,7 @@
     - [ ] _（早已过期）_ [如何得到 Google 的一份工作，面试题，应聘过程](http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html)
     - [ ] [电话面试的问题](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 
-- [ ] 附加的（虽然 Google 不建议，但我还是添加在此）：
+- [ ] 附加的：
     - [ ] [ABC：永远都要去编程（Always Be Coding）](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
     - [ ] [四步成为 Google 里一名没有学位的员工](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
     - [ ] [共享白板（Whiteboarding）](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
@@ -202,16 +194,10 @@
 
 在这，我就以下话题写一篇短文 —— [重点：为在 Google 的面试选择一种语言](https://googleyasheck.com/important-pick-one-language-for-the-google-interview/)
 
-在大多数公司的面试当中，你可以在编程这一环节，使用一种自己用起来较为舒适的语言去完成编程。但在 Google，你只有三种固定的选择：
+在大多数公司的面试当中，你可以在编程这一环节，使用一种自己用起来较为舒适的语言去完成编程。但在 Alibaba，你只有二种固定的选择：
 
-- C++
 - Java
 - Python
-
-有时你也可以使用下面两种，但需要事先查阅说明。因为，说明中会有警告：
-
-- JavaScript
-- Ruby
 
 你需要对你所选择的语言感到非常舒适且足够了解。
 
@@ -223,7 +209,7 @@
 
 [在此查看相关语言的资源](../programming-language-resources.md)
 
-由于，我正在学习C、C++ 和 Python。因此，在下面你会看到部分关于它们的学习资料。相关书籍请看文章的底部。
+由于，我正在学习Java 和 Python。因此，在下面你会看到部分关于它们的学习资料。相关书籍请看文章的底部。
 
 ## 在你开始之前
 
@@ -272,11 +258,9 @@
 
 因此，每一天我都会在下面所列出的列表中选择一项，并查看相关的视频。然后，使用以下的一种语言去实现：
 
-    C —— 使用结构体和函数，该函数会接受一个结构体指针 * 及其他数据作为参数。
-    C++ —— 不使用内建的数据类型。
-    C++ —— 使用内建的数据类型，如使用 STL 的 std::list 来作为链表。
+    Java —— 不使用内建的数据类型。
     Python ——  使用内建的数据类型（为了持续练习 Python），并编写一些测试去保证自己代码的正确性。有时，只需要使用断言函数 assert() 即可。
-    此外，你也可以使用 Java 或其他语言。以上只是我的个人偏好而已。
+  
 
 为何要在这些语言上分别实现一次？
 
