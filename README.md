@@ -138,7 +138,7 @@ Python：
 
 ## 跟着我
 我是一位中国软件工程师，他非常热情并且希望在中国工作。
-| ![Nam Vu - Top-down learning path: machine learning for software engineers](http://github.com/Wuwenxu/code-camp/png/wuwenxu.jpg)|
+| ![Nam Vu - Top-down learning path: machine learning for software engineers](https://github.com/Wuwenxu/code-camp/blob/master/png/wuwenxu.jpg)|
 |:---:|
 | 我在旅途中。 | 
 
