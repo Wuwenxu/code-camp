@@ -9,7 +9,8 @@
 ---
 
 ## 目录
-
+- [动机](#动机)
+- [我的代码](#我的代码)
 - [这是？](#这是)
 - [为何要用到它？](#为何要用到它)
 - [如何使用它](#如何使用它)
@@ -67,6 +68,15 @@
 - [问面试官的问题](#问面试官的问题)
 - [当你获得了梦想的职位](#当你获得了梦想的职位)
 
+---------------- Python --------------------------
+- [机器学习概述](#机器学习概述)
+- [机器学习精通](#机器学习精通)
+- [机器学习很有趣](#机器学习很有趣)
+- [机器学习:深入非技术指南](#机器学习:深入非技术指南)
+- [MOOC](#MOCC)
+
+
+
 ---------------- 下面的内容是可选的 ----------------
 
 - [附加的学习](#附加的学习)
@@ -105,6 +115,9 @@
 
 ---
 
+## 动机
+- [梦想](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
+
 ## 为何要用到它？
 
 Java:
@@ -141,6 +154,11 @@ Python：
 | ![Nam Vu - Top-down learning path: machine learning for software engineers](https://github.com/Wuwenxu/code-camp/blob/master/png/wuwenxu.jpg)|
 |:---:|
 | 我在旅途中。 | 
+
+## 我的代码
+在这里，你可以查看到我的代码：
+ - [Java](https://github.com/Wuwenxu/code-camp-java)
+ - [Python](https://github.com/Wuwenxu/code-camp-python)
 
 
 ## 觉的自己不够聪明？
@@ -270,9 +288,6 @@ Python：
 
 就算我没有时间去每一项都这么做，但我也会尽我所能的。
 
-在这里，你可以查看到我的代码：
- - [Java](https://github.com/Wuwenxu/code-camp-java)
- - [Python](https://github.com/Wuwenxu/code-camp-python)
 
 你不需要记住每一个算法的内部原理。
 
@@ -1241,6 +1256,53 @@ Python：
 坚持继续学习。
 
 得到这份工作只是一个开始。
+
+
+---
+    Python相关知识
+---
+- [机器学习概述](#机器学习概述)
+- [机器学习精通](#机器学习精通)
+- [机器学习很有趣](#机器学习很有趣)
+- [机器学习:深入非技术指南](#机器学习:深入非技术指南)
+- [故事与精力](#故事与精力)
+- [书籍](#书籍)
+- [知识竞赛](#知识竞赛)
+- [MOOC](#MOCC)
+- [资源](#资源)
+## 机器学习概述
+- [机器学习的视觉介绍](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [机器学习的温柔指南](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
+- [新手的机器学习基础](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
+## 机器学习精通
+- [机器学习精通方法](https://machinelearningmastery.com/machine-learning-mastery-method/)
+- [程序员的机器学习](https://machinelearningmastery.com/machine-learning-for-programmers/)
+- [掌握机器学习的应用机器学习](https://machinelearningmastery.com/start-here/)
+- [Python机器学习迷你课程](https://machinelearningmastery.com/python-machine-learning-mini-course/)
+- [机器学习算法迷你课程](https://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
+## 机器学习很有趣
+- [机器学习很有趣！](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
+- [第2部分：使用机器学习生成Super Mario Maker等级](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)
+- [第3部分：深度学习和卷积神经网络](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
+- [第四部分：深度学习中的现代人脸识别](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
+- [第5部分：深度学习和顺序魔术的语言翻译](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
+## 机器学习：深入的非技术指南
+- [概述，目标，学习类型和算法](https://www.innoarchitech.com/blog/)
+- [数据选择，准备和建模](https://www.innoarchitech.com/blog/)
+- [模型评估，验证，复杂性和改进](https://www.innoarchitech.com/blog/)
+- [模型性能和误差分析](https://www.innoarchitech.com/blog/)
+- [无监督学习，相关领域和实践中的机器学习](https://www.innoarchitech.com/blog/)
+
+## MOOC
+- [Udacity的机器学习入门](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+- [Udacity机器学习简介](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html)
+- [Udacity的监督，无监督和增强](https://www.udacity.com/course/machine-learning--ud262)
+- [机器学习基础：案例研究方法](https://www.coursera.org/learn/ml-foundations)
+- [Coursera的机器学习](https://www.coursera.org/learn/machine-learning)
+- [仅视频](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
+- [Coursera机器学习评论](https://rayli.net/blog/data/coursera-machine-learning-review/)
+- [Coursera：机器学习路线图](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
+
 
 ---
 
